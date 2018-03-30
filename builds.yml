@@ -1,5 +1,5 @@
 metadata:
-  image_version: 0.11.1
+  image_version: 0.12.1
   hanami_version: 1.1.1
   hanami_model_version: 1.1.0
 builds:
